@@ -11,6 +11,6 @@ puts "----------"
 
 puts @store3.name
 
-@store3.destroy
+#@store3.destroy
 
 puts Store.count
